@@ -1,0 +1,21 @@
+[2024-03-20 12:07:18] [info] Start Program:
+Path:"C:\Users\Robert\Documents\AN 2 - SEM 2\OOP\lab2-4_2024\lab2-4\x64\Debug\lab2-4.exe"
+Arguments:
+Working directory: "C:\Users\Robert\Documents\AN 2 - SEM 2\OOP\lab2-4_2024\lab2-4\lab2-4\"
+Modules: Selected: C:\Users\Robert\Documents\AN 2 - SEM 2\OOP\lab2-4_2024\lab2-4\x64\Debug\lab2-4.exe Excluded: 
+Sources: Selected: C:\Users\Robert\Documents\AN 2 - SEM 2\OOP\lab2-4_2024\lab2-4\lab2-4 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Robert\AppData\Local\Temp\sqfqhknr.1ks 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-03-20 12:07:19] [info] Module: C:\Users\Robert\Documents\AN 2 - SEM 2\OOP\lab2-4_2024\lab2-4\x64\Debug\lab2-4.exe is selected because it matches selected pattern: C:\Users\Robert\Documents\AN 2 - SEM 2\OOP\lab2-4_2024\lab2-4\x64\Debug\lab2-4.exe
+[2024-03-20 12:07:19] [info] ----------------------------------------------------
+[2024-03-20 12:07:19] [info] Coverage binary generated in file: C:\Users\Robert\AppData\Local\Temp\sqfqhknr.1ks
+[2024-03-20 12:07:19] [info] ----------------------------------------------------
